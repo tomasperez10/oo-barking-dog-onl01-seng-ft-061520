@@ -10,9 +10,7 @@ class Dog
   end
   
   def bark
-    if @this_dogs_name
       puts "woof!"
-    end
   end
   
 end
